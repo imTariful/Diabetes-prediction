@@ -1,6 +1,8 @@
 # Diabetes-prediction
 A machine learning model to predict diabetes using the Pima Indians dataset. Includes data preprocessing, EDA, model training (Logistic Regression, Random Forest, etc.), evaluation metrics, and visualizations. Built with Python, Scikit-learn, and Matplotlib.
+
 📊 Dataset
+
 The dataset used in this project is the Pima Indians Diabetes Database, which includes various health-related attributes:
 
 Pregnancies
@@ -22,6 +24,7 @@ Age
 Outcome (0: Non-diabetic, 1: Diabetic)
 
 ⚙️ Technologies Used
+
 Python
 
 Pandas & NumPy – for data handling
@@ -31,6 +34,7 @@ Matplotlib & Seaborn – for data visualization
 Scikit-learn – for model building and evaluation
 
 📈 Workflow
+
 Data Loading & Exploration
 
 Summary statistics
@@ -76,6 +80,7 @@ Prediction
 Accept user input or test data to predict diabetes outcome
 
 🚀 How to Run
+
 Clone the repository:
 
 bash
@@ -93,6 +98,7 @@ Run the notebook:
 Open diabetes.ipynb in Jupyter Notebook or Google Colab and run the cells.
 
 📌 Future Improvements
+
 Add Streamlit or Flask-based web app for real-time prediction
 
 Hyperparameter tuning and model optimization
@@ -100,4 +106,5 @@ Hyperparameter tuning and model optimization
 Feature selection using advanced techniques
 
 📚 License
+
 This project is licensed under the MIT License.
